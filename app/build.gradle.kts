@@ -96,5 +96,6 @@ dependencies {
     ksp("com.google.dagger:hilt-android-compiler:2.57.1")
 
     // https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp
-    implementation("com.squareup.okhttp3:okhttp:5.2.1")
+    // implementation("com.squareup.okhttp3:okhttp:5.2.1"
+    implementation("com.squareup.okhttp3:okhttp:4.12.0")
 }
